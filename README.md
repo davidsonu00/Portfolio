@@ -5,15 +5,11 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-7c6cfa?style=for-the-badge&logo=vercel)](https://your-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github)](https://github.com/yourusername/portfolio)
-[![License: MIT](https://img.shields.io/badge/License-MIT-4dd9ac?style=for-the-badge)](LICENSE)
+
 
 ---
 
-## 📸 Preview
 
-> *(Add a screenshot here after deploying — drag and drop an image into this section on GitHub)*
-
----
 
 ## ✨ Features
 
