@@ -3,9 +3,8 @@
 > A modern, responsive, single-file portfolio website — built with HTML, CSS & JavaScript.  
 > Designed for developers to showcase projects, skills, and experience to recruiters.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7c6cfa?style=for-the-badge&logo=vercel)](https://your-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github)](https://github.com/yourusername/portfolio)
-
+Live Demo = https://portfolio-rose-nine-18.vercel.app/
+GitHub = https://github.com/davidsonu00/Portfolio
 
 ---
 
